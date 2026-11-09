@@ -1,0 +1,59 @@
+{
+  "manifest_version": 2,
+  "name": "Thunder Tassels (Omarchy)",
+  "version": "3.0.0",
+  "description": "Thunder Tassels theme for Firefox, made to match the Omarchy theme of the same name.",
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "thunder-tassels-omarchy@gleasonmt"
+    }
+  },
+  "theme": {
+    "images": {
+      "theme_frame": "header.svg"
+    },
+    "colors": {
+      "frame": "#05070f",
+      "frame_inactive": "#080b17",
+      "tab_background_text": "#f4f1e8",
+      "tab_text": "#ffb35c",
+      "tab_selected": "rgba(255,106,0,0.18)",
+      "tab_line": "#ff6a00",
+      "tab_loading": "#00d4ff",
+      "tab_background_separator": "rgba(0,212,255,0.3)",
+      "toolbar": "rgba(11,16,32,0.75)",
+      "toolbar_text": "#f4f1e8",
+      "toolbar_top_separator": "rgba(255,106,0,0.3)",
+      "toolbar_bottom_separator": "rgba(0,212,255,0.3)",
+      "toolbar_field": "#18213a",
+      "toolbar_field_text": "#f4f1e8",
+      "toolbar_field_border": "rgba(47,107,255,0.5)",
+      "toolbar_field_focus": "#05070f",
+      "toolbar_field_text_focus": "#ffe500",
+      "toolbar_field_border_focus": "#ff6a00",
+      "toolbar_field_highlight": "#ff6a00",
+      "toolbar_field_highlight_text": "#05070f",
+      "button_background_hover": "rgba(255,106,0,0.35)",
+      "button_background_active": "rgba(0,212,255,0.4)",
+      "icons": "#ffc266",
+      "icons_attention": "#ff3fd2",
+      "popup": "#0b1020",
+      "popup_text": "#f4f1e8",
+      "popup_border": "#ff6a00",
+      "popup_highlight": "#ff6a00",
+      "popup_highlight_text": "#05070f",
+      "sidebar": "#080b17",
+      "sidebar_text": "#f4f1e8",
+      "sidebar_border": "#00d4ff",
+      "sidebar_highlight": "#ff6a00",
+      "sidebar_highlight_text": "#05070f",
+      "ntp_background": "#0b1020",
+      "ntp_text": "#f4f1e8",
+      "ntp_card_background": "#18213a"
+    },
+    "properties": {
+      "color_scheme": "dark",
+      "content_color_scheme": "dark"
+    }
+  }
+}
